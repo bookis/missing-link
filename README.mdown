@@ -1,0 +1,100 @@
+# A Rails Tutorial: The Missing Link
+
+## Tools
+ - Terminal
+ - Git
+ - Rake
+
+## Objects
+ - Basics
+ - Arrays
+ - Hashes
+
+## Methods
+ - Basics
+ - Instance
+ - Class
+ - Defining
+ - Blocks
+
+## Classes
+ - Basics
+ - Defining
+ - Basic methods
+ - Structure
+
+## Rails
+ - Basics
+ - Structure
+ - Routing
+ - Controller
+ - Model
+ - View
+ - Helper
+ - Mailer
+ - Gems
+
+* * * *
+
+# Courses
+
+## Prereqs
+ - Tools: Terminal
+ - Objects: Basics
+ - Methods: Basics
+ - Classes: Basics
+
+## 101
+ - Tools: Git
+ - Objects: Arrays
+ - Methods: Instance
+
+## 102
+ - Tools: Rake
+ - Objects: Hashes
+ - Methods: Class
+ - Classes: Defining
+ - Rails: Basics
+
+## 103
+ - Methods: Defining
+ - Classes: Basic Methods
+ - Rails: Structure
+
+## 201
+ - Methods: Using Blocks
+ - Class: Structure
+ - Rails: Routing
+ - Rails: Controllers
+ - Rails: Models
+ - Rails: Views
+
+## 202
+ - Rails: Routing
+ - Rails: Controllers
+ - Rails: Models (Active Record)
+ - Rails: Views
+ - Rails: Helpers
+ - Rails: Gems
+
+## 203
+ - Rails: Routing
+ - Rails: Controllers
+ - Rails: Models (Associations)
+ - Rails: Views
+ - Rails: Helpers
+ - Rails: Mailers 
+
+****
+
+# Final: Making an App
+ - Generation
+ - About Controller (Model-less)
+ - Model Scaffold by Hand
+ - Adding an Association
+ - Adding Users
+ - Custom Routes
+ - Refactor/Beautify Views
+ - Complex Model logic
+ - Mailer
+
