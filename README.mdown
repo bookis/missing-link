@@ -47,6 +47,7 @@
  - Rails: Models (Associations)
  - Rails: Views
  - Rails: Helpers
+ - Rails: Gems 
  - Rails: Mailers 
 
 ****
